@@ -69,7 +69,7 @@ html5lib==0.9999999
 httplib2==0.10.3
 idna==2.6
 ipython-genutils==0.2.0
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 jsondiff==1.1.1
 jsonpickle==0.9.5

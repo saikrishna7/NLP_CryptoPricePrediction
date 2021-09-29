@@ -76,7 +76,7 @@ MarkupSafe==1.0
 matplotlib==2.1.2
 mock==2.0.0
 moto==1.2.0
-nltk==3.2.5
+nltk==3.6.3
 numpy==1.14.0
 oauth2client==3.0.0
 oauthlib==2.0.6

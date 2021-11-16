@@ -7,7 +7,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "aws-sdk": "^2.189.0",
+    "aws-sdk": "^2.814.0",
     "dateformat": "^3.0.3",
     "log4js": "^0.6.38",
     "moment": "^2.21.0",

@@ -70,7 +70,7 @@ Jinja2==2.10
 jmespath==0.9.3
 jsondiff==1.1.1
 jsonpickle==0.9.5
-lxml==4.1.1
+lxml==4.6.5
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.1.2

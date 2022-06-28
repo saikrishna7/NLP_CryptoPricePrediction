@@ -1,5 +1,5 @@
 absl-py==0.1.10
-arrow==0.12.1
+arrow==0.15.1
 asn1crypto==0.24.0
 aws-xray-sdk==0.95
 awscli==1.14.32
